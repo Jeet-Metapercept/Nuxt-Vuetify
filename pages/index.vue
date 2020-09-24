@@ -74,6 +74,12 @@
         <v-card-actions>
           <v-spacer />
           <v-btn color="primary" nuxt to="/inspire"> Continue </v-btn>
+
+          <v-btn color="primary" nuxt to="/yum"> Simple Table </v-btn>
+
+          <v-btn color="primary" nuxt to="/posts"> Pre-render fetch </v-btn>
+
+          <v-btn color="primary" nuxt to="/timeline"> Timeline </v-btn>
         </v-card-actions>
       </v-card>
     </v-col>

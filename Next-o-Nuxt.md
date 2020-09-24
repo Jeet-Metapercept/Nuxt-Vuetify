@@ -41,7 +41,7 @@ Next.js is a React framework that lets you build server-side rendering and stati
 
 Based on boilerplate app
 
-- [NextJs Benchmark](https://images.ctfassets.net/hspc7zpa5cvq/5gcP7k5WIw7h4mSYuZIDMq/898ad62724d65c969e60d305e1e85d2e/next.png)
+- [NextJs Benchmark](https://raw.githubusercontent.com/Jeet-Metapercept/Nuxt-Vuetify/master/extra/next.png)
 
 - [Lighthouse Score](https://images.ctfassets.net/hspc7zpa5cvq/6SWp0mED1Nb9fXIBM7WwXC/4982654aa94d5d89fc6a0053b1ed90d1/next1.png)
 
@@ -86,6 +86,15 @@ Nuxt is a Vue.js Meta Framework to create complex, fast, and universal(SSR) web 
 
 Based on boilerplate app
 
-- [NuxtJs Benchmark](https://images.ctfassets.net/hspc7zpa5cvq/77aAB8VVmQi8Kif9gTCQ4U/2fd522c337487dce659994e37e8edbeb/nuxt.png)
+- [NuxtJs Benchmark](https://raw.githubusercontent.com/Jeet-Metapercept/Nuxt-Vuetify/master/extra/nuxt.png)
 
 - [Lighthouse Score](https://images.ctfassets.net/hspc7zpa5cvq/7hS5nyqzb8UAFd9NidP5sQ/e0cf7d7936142535c0c8aedaad038d81/nuxt1.png)
+
+## Samples 
+
+- [preview](https://nuxt-vuetify-app.netlify.app)
+- [repo](https://github.com/Jeet-Metapercept/Nuxt-Vuetify)
+
+## Comment
+
+- Nuxt(SSR) apps with graphql have bunch of packages, but most simplest I found is [nuxt-graphql-request](https://github.com/Gomah/nuxt-graphql-request)
